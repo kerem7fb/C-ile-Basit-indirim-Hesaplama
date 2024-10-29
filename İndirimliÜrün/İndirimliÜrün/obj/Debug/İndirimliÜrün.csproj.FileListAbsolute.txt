@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\İndirimliÜrün\İndirimliÜrün\bin\Debug\İndirimliÜrün.exe.config
+C:\Users\user\Desktop\10-M\İndirimliÜrün\İndirimliÜrün\bin\Debug\İndirimliÜrün.exe
+C:\Users\user\Desktop\10-M\İndirimliÜrün\İndirimliÜrün\bin\Debug\İndirimliÜrün.pdb
+C:\Users\user\Desktop\10-M\İndirimliÜrün\İndirimliÜrün\obj\Debug\İndirimliÜrün.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\İndirimliÜrün\İndirimliÜrün\obj\Debug\İndirimliÜrün.Form1.resources
+C:\Users\user\Desktop\10-M\İndirimliÜrün\İndirimliÜrün\obj\Debug\İndirimliÜrün.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\İndirimliÜrün\İndirimliÜrün\obj\Debug\İndirimliÜrün.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\İndirimliÜrün\İndirimliÜrün\obj\Debug\İndirimliÜrün.exe
+C:\Users\user\Desktop\10-M\İndirimliÜrün\İndirimliÜrün\obj\Debug\İndirimliÜrün.pdb
